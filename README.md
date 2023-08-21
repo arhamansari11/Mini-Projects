@@ -5,7 +5,13 @@ Welcome to the <b style="color: red;">Simple Animations repository!</b> In this 
 Each animation is contained within its own directory and consists of HTML, CSS, and JavaScript files. To view a specific animation, open the corresponding HTML file in a web browser.
 
 Feel free to experiment with the code, tweak the animations, and combine different effects to create your own unique animations.
-
+# Features
+<ol>
+  <li>Basic animations using HTML, CSS, and JavaScript.</li>
+  <li>Easy-to-understand code structure, suitable for beginners.</li>
+  <li>A variety of animation effects to learn from and use in your projects.</li>
+  <li>Minimal dependencies, allowing you to focus on learning core concepts.</li>
+</ol>
 # Contributing
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 <ol>
@@ -14,12 +20,4 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
   <li>Make your changes and commit them: git commit -m "Add some feature".</li>
   <li>Push to your forked repository: git push origin feature-name.</li>
   <li>Create a pull request detailing your changes.</li>
-</ol>
-
-# Features
-<ol>
-  <li>Basic animations using HTML, CSS, and JavaScript.</li>
-  <li>Easy-to-understand code structure, suitable for beginners.</li>
-  <li>A variety of animation effects to learn from and use in your projects.</li>
-  <li>Minimal dependencies, allowing you to focus on learning core concepts.</li>
 </ol>
