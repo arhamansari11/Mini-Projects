@@ -21,4 +21,5 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
   <li>Push to your forked repository: git push origin feature-name.</li>
   <li>Create a pull request detailing your changes.</li>
 </ol>
+<br></br>
 Please ensure your pull request follows the repository's code of conduct
