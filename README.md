@@ -12,7 +12,7 @@ Feel free to experiment with the code, tweak the animations, and combine differe
   <li>A variety of animation effects to learn from and use in your projects.</li>
   <li>Minimal dependencies, allowing you to focus on learning core concepts.</li>
 </ol>
-# Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 <ol>
   <li>Fork the repository.</li>
