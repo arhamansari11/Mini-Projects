@@ -17,6 +17,8 @@ Contributions are welcome! If you'd like to contribute to this repository, pleas
 <ol>
   <li>Fork the repository.</li>
   <li>Create a new branch for your feature/fix: git checkout -b feature-name.</li>
-  <li>A variety of animation effects to learn from and use in your projects.</li>
-  <li>Minimal dependencies, allowing you to focus on learning core concepts.</li>
+  <li>Make your changes and commit them: git commit -m "Add some feature".</li>
+  <li>Push to your forked repository: git push origin feature-name.</li>
+  <li>Create a pull request detailing your changes.</li>
 </ol>
+Please ensure your pull request follows the repository's code of conduct
