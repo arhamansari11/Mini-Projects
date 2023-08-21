@@ -6,12 +6,12 @@ Each animation is contained within its own directory and consists of HTML, CSS, 
 
 Feel free to experiment with the code, tweak the animations, and combine different effects to create your own unique animations.
 # Features
-<ul>
+<ol>
   <li>Basic animations using HTML, CSS, and JavaScript.</li>
   <li>Easy-to-understand code structure, suitable for beginners.</li>
   <li>A variety of animation effects to learn from and use in your projects.</li>
   <li>Minimal dependencies, allowing you to focus on learning core concepts.</li>
-</ul>
+</ol>
 # Contributing
 Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 <ol>
