@@ -8,7 +8,7 @@ Feel free to experiment with the code, tweak the animations, and combine differe
 
 # Features
 <ol>
-  <li>Basic animations using HTML, CSS, and JavaScript.</li>
+  <li>Basic animations using HTML, CSS, and JavaScript</li>
   <li>Easy-to-understand code structure, suitable for beginners.</li>
   <li>A variety of animation effects to learn from and use in your projects.</li>
   <li>Minimal dependencies, allowing you to focus on learning core concepts.</li>
