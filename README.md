@@ -4,7 +4,7 @@ Welcome to the <b style="color: red;">Simple Animations repository!</b> In this 
 # Usage
 Each animation is contained within its own directory and consists of HTML, CSS, and JavaScript files. To view a specific animation, open the corresponding HTML file in a web browser.
 
-Feel free to experiment with the code, tweak the animations, and combine different effects to create your own unique animations.
+Feel free to experiment with the code, tweak the animations, and combine different effects to create your own unique animations
 
 # Features
 <ol>
