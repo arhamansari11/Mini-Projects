@@ -1,1 +1,1 @@
-console.log("Yolo Badge");
+const newbadge = "NEW Badge";
