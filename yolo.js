@@ -1,0 +1,1 @@
+const newbadge = "NEW Badge";
